@@ -1,0 +1,2 @@
+ERROR:root:Error loading datasets: [Errno 22] Invalid argument: 'C:C:\\Users\\HP\\Desktop\\10 academy\\KAIM-W4-forecast--sales-in-Rossmann-Pharmaceuticals\\data\\store.csv'
+INFO:root:Datasets loaded successfully
